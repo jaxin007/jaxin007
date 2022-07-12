@@ -17,7 +17,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 ![Nest.js](https://img.shields.io/badge/Nest.js-E50914.svg?style=for-the-badge&logo=nest&logoColor=white)&nbsp;
 
-### ⚡ &nbsp;Database
+### ⚡ &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
