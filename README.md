@@ -6,7 +6,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently graduated from Software engineering at the University of Cherkasy of Technology.\
-🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, Back-end Technologies and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, Back-end Technologies and Cloud Architecture.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
