@@ -1,4 +1,4 @@
-<h2>👋Hey there! I'm Dmytro</h2>
+# 👋Hey there! I'm Dmytro
 
 <!-- ## 👋 &nbsp;Hey there! I'm Dmytro -->
 
@@ -9,6 +9,8 @@
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, Back-end Technologies and Cloud Architecture.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+
+## 💻 Tech Stack:
 
 ### 🚀 &nbsp;Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
